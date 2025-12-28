@@ -79,5 +79,4 @@ modality2params = {
 
 # change into your own keys
 candidate_keys = [
-    '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',
 ]
